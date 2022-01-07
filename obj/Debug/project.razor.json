@@ -1,0 +1,19 @@
+{
+  "FilePath": "e:\\Tugas Semester 7\\Pemrograman .Net (GREZIO ARIFIAN, M.Kom)\\UAS\\Gun_Yuiono_1855202031_UAS\\Asp.NETMVCCRUD\\Asp.NETMVCCRUD\\GunYuliono_UAS_CRUD_NET.csproj",
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 703
+  },
+  "RootNamespace": null,
+  "Documents": [],
+  "SerializationFormat": "0.2"
+}
